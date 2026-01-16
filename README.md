@@ -1,6 +1,6 @@
 # iPhoneSim – Realistic iPhone Lock Screen UI Simulation 📱
 
-A sleek, interactive simulation of an iPhone lock screen, built entirely with HTML, CSS, and JavaScript. Perfect for UI experiments, demos, or just flexing your frontend skills.
+A sleek, interactive simulation of an iPhone lock screen, built entirely with HTML, CSS, and JavaScript. Perfect for UI experiments, demos, or just flexing your frontend skills. I made this for fun.
 
 ---
 

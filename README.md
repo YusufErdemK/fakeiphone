@@ -6,7 +6,7 @@ A sleek, interactive simulation of an iPhone lock screen, built entirely with HT
 
 ## Features
 
-![iPhoneSim Screenshot](/screenshots/lockscreen.png)
+![iPhoneSim Screenshot](/screenshots/v0.2.png)
 
 - **Dynamic Notch & Smooth Animations**  
   Responsive hover effects, expanding notch, and elegant transitions.
